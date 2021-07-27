@@ -90,12 +90,6 @@ function decipher(str, key) {
                     strNew = strNew + abcArray[key3];
                     break
 
-                } else if (strArray[i] === abcArray[0]) {
-                    //console.log(abcArray);
-
-                    strNew = strNew + abcArray[0];
-
-                    break
                 } else {
                     strNew = strNew + abcArray[key2];
 
@@ -114,7 +108,7 @@ function decipher(str, key) {
 function ceasar(type, str, key) {
     if (type === 'cip') {
         return cipher(str, key);
-    } else if (type === 'dec') {
+    } else {
         return decipher(str, key);
     }
 

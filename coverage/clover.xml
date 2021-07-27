@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1627349908659" clover="3.2.0">
+  <project timestamp="1627349908659" name="All files">
+    <metrics statements="91" coveredstatements="91" conditionals="22" coveredconditionals="22" methods="13" coveredmethods="13" elements="126" coveredelements="126" complexity="0" loc="91" ncloc="91" packages="1" files="6" classes="6"/>
+    <file name="arrayAnalysis.js" path="/home/chris/TheOdinProject/Learning-Jest-Testing/src/arrayAnalysis.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="24" type="stmt"/>
+      <line num="6" count="4" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="11" count="27" type="stmt"/>
+      <line num="13" count="4" type="stmt"/>
+      <line num="20" count="4" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="calc.js" path="/home/chris/TheOdinProject/Learning-Jest-Testing/src/calc.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="cap.js" path="/home/chris/TheOdinProject/Learning-Jest-Testing/src/cap.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="cipher.js" path="/home/chris/TheOdinProject/Learning-Jest-Testing/src/cipher.js">
+      <metrics statements="68" coveredstatements="68" conditionals="22" coveredconditionals="22" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="10" count="5" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="13" count="86" type="stmt"/>
+      <line num="14" count="2345" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="18" count="2342" type="stmt"/>
+      <line num="20" count="86" type="stmt"/>
+      <line num="21" count="852" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="25" count="850" type="stmt"/>
+      <line num="27" count="86" type="stmt"/>
+      <line num="29" count="919" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="81" type="stmt"/>
+      <line num="33" count="81" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="25" type="stmt"/>
+      <line num="35" count="25" type="stmt"/>
+      <line num="36" count="25" type="stmt"/>
+      <line num="38" count="56" type="cond" truecount="2" falsecount="0"/>
+      <line num="41" count="14" type="stmt"/>
+      <line num="42" count="14" type="stmt"/>
+      <line num="44" count="42" type="stmt"/>
+      <line num="45" count="42" type="stmt"/>
+      <line num="48" count="838" type="stmt"/>
+      <line num="50" count="86" type="stmt"/>
+      <line num="52" count="5" type="stmt"/>
+      <line num="53" count="5" type="stmt"/>
+      <line num="57" count="6" type="stmt"/>
+      <line num="58" count="6" type="stmt"/>
+      <line num="60" count="6" type="stmt"/>
+      <line num="61" count="102" type="stmt"/>
+      <line num="62" count="2793" type="cond" truecount="2" falsecount="0"/>
+      <line num="63" count="3" type="stmt"/>
+      <line num="64" count="3" type="stmt"/>
+      <line num="66" count="2790" type="stmt"/>
+      <line num="68" count="102" type="stmt"/>
+      <line num="69" count="1012" type="cond" truecount="2" falsecount="0"/>
+      <line num="70" count="2" type="stmt"/>
+      <line num="71" count="2" type="stmt"/>
+      <line num="73" count="1010" type="stmt"/>
+      <line num="76" count="102" type="stmt"/>
+      <line num="77" count="1369" type="cond" truecount="2" falsecount="0"/>
+      <line num="79" count="97" type="stmt"/>
+      <line num="81" count="97" type="cond" truecount="2" falsecount="0"/>
+      <line num="82" count="49" type="cond" truecount="2" falsecount="0"/>
+      <line num="85" count="17" type="stmt"/>
+      <line num="87" count="17" type="stmt"/>
+      <line num="89" count="32" type="stmt"/>
+      <line num="90" count="32" type="stmt"/>
+      <line num="91" count="32" type="stmt"/>
+      <line num="94" count="48" type="stmt"/>
+      <line num="96" count="48" type="stmt"/>
+      <line num="99" count="1272" type="stmt"/>
+      <line num="102" count="102" type="stmt"/>
+      <line num="104" count="6" type="stmt"/>
+      <line num="105" count="6" type="stmt"/>
+      <line num="109" count="11" type="cond" truecount="2" falsecount="0"/>
+      <line num="110" count="5" type="stmt"/>
+      <line num="112" count="6" type="stmt"/>
+      <line num="116" count="1" type="stmt"/>
+    </file>
+    <file name="reverse.js" path="/home/chris/TheOdinProject/Learning-Jest-Testing/src/reverse.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/home/chris/TheOdinProject/Learning-Jest-Testing/src/sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
